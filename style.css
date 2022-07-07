@@ -31,6 +31,7 @@
     .Skillz{
         width: 50%;
         margin: 5px
+        grid-template: center;
     }
     .flexContainer{
         flex-direction: column;
